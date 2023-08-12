@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @perrinedominic
-- 🌱 I’m currently learning: .NET Core
+- 🌱 Technologies I have experience with: ASP.NET Core Web Apps, MVC, Entity Framework, SQL Server, Javascript Libraries, and many more.
 - 💞️ I’m looking to collaborate on full stack applications
 - 📫 How to reach me: perrinedominic@gmail.com
 
